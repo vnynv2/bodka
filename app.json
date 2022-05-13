@@ -16,7 +16,7 @@
   ],
   "success_url": "https://t.me/All_URL_Uploader_Bot",
   "website": "https://github.com/kalanakt",
-  "repository": "https://github.com/kalanakt/All-Url-Uploader",
+  "repository": "https://github.com/vnynv2/bodka",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -24,24 +24,24 @@
     },
     "TG_BOT_TOKEN": {
       "description": "Your bot token, as a string.",
-      "value": ""
+      "value": "5127434589:AAE-08nkj7MmKFgF_xWISCF59P4BUyHMwxE"
     },
     "APP_ID": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "9525889"
     },
     "API_HASH": {
       "description": "Get this value from https://my.telegram.org",
-      "value": ""
+      "value": "c0e3224870baf671e1069eba11f583bb"
     },
     "LOGS_CHANNEL": {
       "description": "id of log channel/group. leave this if you don't want to",
-      "value": "-1001718967421",
+      "value": "",
       "required": false
     },
     "OWNER_ID": {
       "description": "Your Telegram ID",
-      "value": ""
+      "value": "537011981"
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
