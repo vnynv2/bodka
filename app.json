@@ -46,6 +46,7 @@
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
       "value": ""
+      "required": false
     },
     "SESSION_NAME": {
       "description": "Your Session Name",
